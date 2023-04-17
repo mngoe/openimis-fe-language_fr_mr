@@ -2214,5 +2214,21 @@
     "contributionPlan.codeTaken": "",
     "contributionPlan.bundleCodeTaken": "",
     "paymentPlan.codeTaken": "",
-    "policyHolder.codeTaken": ""
+    "policyHolder.codeTaken": "",
+    "insuree.attachments.title": "",
+    "insuree.InsureeAttachment.delete.mutationLabel": "",
+    "insuree.InsureeAttachment.create.mutationLabel": "",
+    "insuree.InsureeAttachment.update.mutationLabel": "",
+    "insuree.edit.attachments.title": "",
+    "insuree.Membership.null": "",
+    "insuree.Membership.none": "",
+    "insuree.MembershipPicker.label": "",
+    "insuree.MembershipPicker.placeholder": "",
+    "insuree.insuree.InsureeFilePanel.title": "",
+    "insuree.insureeAttachment.type": "",
+    "insuree.insureeAttachment.title": "",
+    "insuree.insureeAttachment.date": "",
+    "insuree.insureeAttachment.fileName": "",
+    "insureeSummaries.printSelected": "",
+    "insureeSummaries.printAll": ""
 }

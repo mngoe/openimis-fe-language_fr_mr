@@ -5,6 +5,6 @@ const DEFAULT_CONFIG = {
   "translations": [{ key: 'fr_mr', messages: messages_fr_mr }],
 }
 
-export const LanguageFrCmrCSModule = (cfg) => {
+export const LanguageFrMrModule = (cfg) => {
   return { ...DEFAULT_CONFIG, ...cfg };
 }
