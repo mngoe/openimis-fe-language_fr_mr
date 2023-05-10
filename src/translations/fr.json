@@ -1239,5 +1239,21 @@
     "location.LocationPicker.loadingText": "Chargement…",
     "location.LocationPicker.clearText": "Effacer",
     "location.LocationPicker.openText": "Ouvrir",
-    "location.LocationPicker.closeText": "Fermer"
+    "location.LocationPicker.closeText": "Fermer",
+    "insuree.insureeAttachment.type": "Type",
+    "insuree.insureeAttachment.title": "Titre",
+    "insuree.insureeAttachment.date": "Date",
+    "insuree.insureeAttachment.fileName": "Fichier",
+    "insureeSummaries.printSelected": "Imprimer la sélection",
+    "insureeSummaries.printAll": "Imprimer tout",
+    "insuree.insureeAttachment.action": " ",
+    "insuree.attachments.title": "{filename}",
+    "insuree.InsureeAttachment.delete.mutationLabel": "Supprimer la pièce jointe {file} de l'assuré",
+    "insuree.InsureeAttachment.create.mutationLabel": "Ajouter la pièce jointe {file} pour l'assuré",
+    "insuree.InsureeAttachment.update.mutationLabel": "Mettre à jour la pièce jointe {file} de l'assuré",
+    "insuree.edit.attachments.title": "Pièces Jointes",
+    "insuree.Membership.null": "Tout",
+    "insuree.Membership.none": "Aucun",
+    "insuree.MembershipPicker.label": "Groupe d'appartenance",
+    "insuree.MembershipPicker.placeholder": "Sélectionner un groupe d'appartenance"
 }
