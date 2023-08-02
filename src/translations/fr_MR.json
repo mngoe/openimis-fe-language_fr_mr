@@ -483,6 +483,7 @@
     "claim.claimAttachment.action": " ",
     "claim.ClaimAttachment.update.mutationLabel": "Mise à jour de {file} pièce(s) jointe(s) de la prestation {code}",
     "insuree.Insuree.names": "Nom",
+    "insuree.Insuree.arabNames": " Nom Arabe",
     "insuree.gender": "Genre",
     "insuree.gender.null": "Tous",
     "insuree.gender.M": "Homme",
