@@ -2314,5 +2314,7 @@
     "payment.showReconciledOnly": "",
     "product.createMutation.label": "",
     "product.updateMutation.label": "",
-    "product.deleteMutation.label": ""
+    "product.deleteMutation.label": "",
+    "policySummaries.printMembershipCardSelected": "Imprimer la(s) carte(s) d'adhésion(s)",
+    "insureeSummaries.printMembershipCardSelected": "Imprimer la(s) carte(s) d'adhésion(s)"
 }
