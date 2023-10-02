@@ -238,6 +238,8 @@
     "claim.Feedback.Tristate.-1": "Inconnu",
     "claim.Feedback.Tristate.0": "Non",
     "claim.Feedback.Tristate.1": "Oui",
+    "Claim.othertype": "Autre Type",
+    "claim.Genre":"genre",
     "insuree.appBar.enquiry": "Enquête sur l'assuré...",
     "insuree.mainMenu": "Assurés et polices",
     "insuree.menu.addFamilyOrGroup": "Ajouter une famille\/un groupe",
@@ -1269,5 +1271,7 @@
     "insuree.MembershipPicker.placeholder": "Sélectionner un groupe d'appartenance",
     "policySummaries.printSelected": "Imprimer la sélection",
     "policySummaries.printMembershipCardSelected": "Imprimer la(s) carte(s) d'adhésion(s)",
-    "insureeSummaries.printMembershipCardSelected": "Imprimer la(s) carte(s) d'adhésion(s)"
+    "insureeSummaries.printMembershipCardSelected": "Imprimer la(s) carte(s) d'adhésion(s)",
+    "Age" : "nendoou",
+    "Insuree.age": "theruhashi"
 }
