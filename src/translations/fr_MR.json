@@ -245,7 +245,7 @@
     "claim.othertype.Réanimation": "Réanimation",
     "claim.othertype.AVP": "AVP",
     "claim.othertype.Autre": "Autre",
-    "othertype.null": " ",
+    "othertype.null": "Aucun",
     "claim.practicien": "Practicien",
     "claim.prescribertype": "Type de prescription",
     "claim.prescribertype.1": "Sage femme",
