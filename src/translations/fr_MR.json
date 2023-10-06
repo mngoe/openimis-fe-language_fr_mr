@@ -2248,7 +2248,7 @@
     "insuree.insureeAttachment.title": "Titre",
     "insuree.insureeAttachment.date": "Date",
     "insuree.insureeAttachment.fileName": "Fichier",
-    "insureeSummaries.printSelected": "Imprimer la sélection",
+    "insureeSummaries.rightCertificate": "Imprimer attestation de droit",
     "insureeSummaries.printAll": "Imprimer tout",
     "insuree.insureeAttachment.action": " ",
     "insuree.attachments.title": "{filename}",
@@ -2260,7 +2260,7 @@
     "insuree.Membership.none": "Aucun",
     "insuree.MembershipPicker.label": "Groupe d'appartenance",
     "insuree.MembershipPicker.placeholder": "Sélectionner un groupe d'appartenance",
-    "policySummaries.printSelected": "Imprimer la sélection",
+    "policySummaries.rightCertificate": "Imprimer attestation de droit",
     "admin.user.emailFormatInvalid": "Format d'email invalide",
     "policy.PolicyFilter.product.label": "",
     "policy.PolicyFilter.product.placeholder": "",
@@ -2333,6 +2333,6 @@
     "product.createMutation.label": "",
     "product.updateMutation.label": "",
     "product.deleteMutation.label": "",
-    "policySummaries.printMembershipCardSelected": "Imprimer la(s) carte(s) d'adhésion(s)",
-    "insureeSummaries.printMembershipCardSelected": "Imprimer la(s) carte(s) d'adhésion(s)"
+    "policySummaries.printMembershipCardSelected": "Imprimer carte d'adhésion",
+    "insureeSummaries.printMembershipCardSelected": "Imprimer carte d'adhésion"
 }
