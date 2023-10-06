@@ -1273,5 +1273,7 @@
     "policySummaries.printMembershipCardSelected": "Imprimer la(s) carte(s) d'adhésion(s)",
     "insureeSummaries.printMembershipCardSelected": "Imprimer la(s) carte(s) d'adhésion(s)",
     "Age" : "nendoou",
-    "Insuree.age": "theruhashi"
+    "Insuree.age": "theruhashi",
+    "mauritania.InvoiceMauritaniaReport.dateFrom": "Date début",
+    "mauritania.InvoiceMauritaniaReport.dateTo": "Date fin"
 }
