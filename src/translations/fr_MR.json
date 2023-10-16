@@ -2339,5 +2339,10 @@
     "policySummaries.printMembershipCardSelected": "Imprimer carte d'adhésion",
     "insureeSummaries.printMembershipCardSelected": "Imprimer carte d'adhésion",
     "mauritania.InvoiceMauritaniaReport.dateFrom": "Date début",
-    "mauritania.InvoiceMauritaniaReport.dateTo": "Date fin"
+    "mauritania.InvoiceMauritaniaReport.dateTo": "Date fin",
+    "medical.serviceTypePP": "Type",
+    "medical.serviceTypePP.null": "None",
+    "medical.serviceTypePP.S": "Simple/atomic",
+    "medical.serviceTypePP.P": "Flat fee bundle",
+    "medical.serviceTypePP.F": "Fee-for-service bundle"
 }
