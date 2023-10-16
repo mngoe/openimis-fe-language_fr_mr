@@ -2342,7 +2342,7 @@
     "mauritania.InvoiceMauritaniaReport.dateTo": "Date fin",
     "medical.serviceTypePP": "Type",
     "medical.serviceTypePP.null": "None",
-    "medical.serviceTypePP.S": "Simple/atomic",
-    "medical.serviceTypePP.P": "Flat fee bundle",
-    "medical.serviceTypePP.F": "Fee-for-service bundle"
+    "medical.serviceTypePP.S": "Unitaire",
+    "medical.serviceTypePP.P": "Prestation forfaitaire",
+    "medical.serviceTypePP.F": "Prestation plafonnée"
 }
