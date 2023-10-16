@@ -249,7 +249,7 @@
     "claim.visitType.8": "AVP",
     "claim.visitType.9": "Autres",
     "visitType.null": "Aucun",
-    "claim.Genre":"genre",
+    "claim.Genre": "genre",
     "insuree.appBar.enquiry": "Enquête sur l'assuré...",
     "insuree.mainMenu": "Assurés et polices",
     "insuree.menu.addFamilyOrGroup": "Ajouter une famille\/un groupe",
@@ -1282,8 +1282,16 @@
     "policySummaries.rightCertificate": "Imprimer attestation de droit",
     "policySummaries.printMembershipCardSelected": "Imprimer la(s) carte(s) d'adhésion(s)",
     "insureeSummaries.printMembershipCardSelected": "Imprimer la(s) carte(s) d'adhésion(s)",
-    "Age" : "nendoou",
+    "Age": "nendoou",
     "Insuree.age": "theruhashi",
     "mauritania.InvoiceMauritaniaReport.dateFrom": "Date début",
-    "mauritania.InvoiceMauritaniaReport.dateTo": "Date fin"
+    "mauritania.InvoiceMauritaniaReport.dateTo": "Date fin",
+    "claim.prescribertype": "Type de prescripteur",
+    "claim.prescribertype.1": "Sage femme",
+    "claim.prescribertype.2": "Technicien de santé",
+    "claim.prescribertype.3": "Médecin Géneraliste",
+    "claim.prescribertype.4": "Médecin Spécialisé",
+    "claim.prescribertype.5": "Dentiste",
+    "claim.prescribertype.6": "Infirmier",
+    "prescribertype.null": "Aucun"
 }
