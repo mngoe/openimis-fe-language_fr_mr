@@ -370,6 +370,7 @@
     "claim.valuated": "Ajusté",
     "claim.claimSummaries.insuree": "Assuré",
     "claim.claimSummaries.deleteSelected": "Supprimer la sélection",
+    "claim.claimSummaries.prescriberType": "Type de prescripteur",
     "claim.DeleteClaims.mutationLabel": "Créances {count} supprimées",
     "claim.deleteClaim.confirm.title": "Supprimer la prestation",
     "claim.deleteClaim.confirm.message": "Êtes-vous sûr de vouloir supprimer la prestation {code} ?",
