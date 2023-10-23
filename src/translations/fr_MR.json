@@ -2346,5 +2346,6 @@
     "medical.serviceTypePP.S": "Unitaire",
     "medical.serviceTypePP.P": "Prestation forfaitaire",
     "medical.serviceTypePP.F": "Prestation plafonnée",
-    "HealthFacilityForm.responsible": "Responsable"
+    "HealthFacilityForm.responsible": "Responsable",
+    "medical.service.packagetype": "Type"
 }

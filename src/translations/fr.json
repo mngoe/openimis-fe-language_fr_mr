@@ -284,6 +284,8 @@
     "location.RegionPicker.label": "Région",
     "location.DistrictPicker.label": "District",
     "location.HealthFacilityPicker.label": "Établissement de santé",
+    "location.HealthFacilityPicker.placeholder": "",
+    "HealthFacilityPicker.placeholder": "",
     "location.healthFacilityLevel": "Niveau des établissements de santé",
     "location.healthFacilityLevel.null": "tous",
     "location.healthFacilityLevel.C": "Centre de santé",
@@ -1293,5 +1295,6 @@
     "claim.prescribertype.4": "Médecin Spécialisé",
     "claim.prescribertype.5": "Dentiste",
     "claim.prescribertype.6": "Infirmier",
-    "prescribertype.null": "Aucun"
+    "prescribertype.null": "Aucun",
+    "claim.ClaimMasterPanel.referHFLabel": "Centre de référence"
 }
