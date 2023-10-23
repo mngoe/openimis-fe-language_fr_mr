@@ -2347,5 +2347,6 @@
     "medical.serviceTypePP.P": "Prestation forfaitaire",
     "medical.serviceTypePP.F": "Prestation plafonnée",
     "HealthFacilityForm.responsible": "Responsable",
-    "medical.service.packagetype": "Type"
+    "medical.service.packagetype": "Type",
+    "claim.ClaimMasterPanel.referHFLabel": "Centre de référence"
 }
